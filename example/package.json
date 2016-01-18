@@ -6,7 +6,7 @@
     "start": "react-native start"
   },
   "dependencies": {
-    "react-native": "git+https://github.com/facebook/react-native.git#master",
+    "react-native": "git+https://github.com/almouro/react-native.git#fix/android-image-orientation",
     "rn-camera-roll": "^0.0.1"
   }
 }
