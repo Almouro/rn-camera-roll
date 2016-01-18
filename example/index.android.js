@@ -7,5 +7,6 @@
 import React, {
   AppRegistry,
 } from 'react-native';
+import CameraRollGallery from './CameraRollGallery';
 
-AppRegistry.registerComponent('example', () => require('./CameraRollGallery'));
+AppRegistry.registerComponent('example', () => CameraRollGallery);

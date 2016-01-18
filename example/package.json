@@ -6,7 +6,7 @@
     "start": "react-native start"
   },
   "dependencies": {
-    "react-native": "^0.15.0",
+    "react-native": "git+https://github.com/facebook/react-native.git#master",
     "rn-camera-roll": "^0.0.1"
   }
 }
